@@ -5,9 +5,9 @@
 ・言語<br>
 HTML/CSS/JavaScript/TypeScript/Ruby/SQL<br>
 ・ライブラリ/フレームワーク<br>
-TailwindCSS/BootStrap/React/ReactHooks/Next.js/RubyonRails<br>
+TailwindCSS/BootStrap/Material-UI//Chakra-UI/React/ReactHooks/Next.js/RubyonRails<br>
 ・インフラ<br>
-AWS/mySQL/PostgreSQL/Vercel/heroku/CircleCi<br>
+AWS/mySQL/PostgreSQL/Vercel/heroku/Netlify/CircleCi<br>
 ・環境<br>
 Docker<br>
 ## 経歴
