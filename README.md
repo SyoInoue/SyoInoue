@@ -2,7 +2,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyoInoue&theme=react" />
 </div>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyoInoue&theme=react"  style="margin-right: 10px;"　/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyoInoue&theme=react"　　/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyoInoue&theme=react" />
 </div>
 <div align="center">
