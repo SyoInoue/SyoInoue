@@ -1,5 +1,5 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyoInoue&theme=default)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyoInoue&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyoInoue&theme=react)
 
 
 <!---
