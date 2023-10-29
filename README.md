@@ -1,5 +1,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyoInoue&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyoInoue&theme=react)
+![Anurag's GitHub stats]
+(https://github-readme-stats.vercel.app/apiusername=syoinoue&show_icons=true&theme=★★★)
 
 
 <!---
