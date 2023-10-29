@@ -1,6 +1,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyoInoue&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyoInoue&theme=react)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiusername=SyoInoue&show_icons=true&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyoInoue&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyoInoue&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyoInoue&theme=react&utcOffset=8)
 
 
 <!---
