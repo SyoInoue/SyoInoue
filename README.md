@@ -1,17 +1,12 @@
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyoInoue&theme=react" />
-</p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyoInoue&theme=react" />
-</p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyoInoue&theme=react" />
 </p>
 <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyoInoue&theme=react" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyoInoue&theme=react" />
 </p>
 <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyoInoue&theme=react" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyoInoue&theme=react&utcOffset=8" />
 </p>
 
